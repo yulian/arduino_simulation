@@ -27,12 +27,13 @@
 * 실습07-07 : 온도센서로 온도 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-07.ino)
 * 도전07 : 화재경보기 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge07.ino)
 ### 8장 아날로그 출력 이해하기
-* 실습 : 아날로그 출력으로 LED 밝기 조절하기 -> [바로가기 링크](https://google.com)
-* 실습 : 가변저항으로 LED 밝기 조절하기 -> [바로가기 링크](https://google.com)
-* 실습 : 삼색 LED로 다양한 색상 표현하기 -> [바로가기 링크](https://google.com)
-* 실습 : DC 모터의 속도 제어하기 -> [바로가기 링크](https://google.com)
-* 실습 : DC 모터의 방향 제어하기 -> [바로가기 링크](https://google.com)
-* 도전 : 삼색 LED의 색상을 수동으로 제어하기 -> [바로가기 링크](https://google.com)
+* 실습08-01 : PWM과 아날로그 출력의 원리(깜빡임과 밝기 조절) -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-01.ino)
+* 실습08-02 : 아날로그 출력으로 LED 밝기 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-02.ino)
+* 실습08-03 : 가변저항으로 LED 밝기 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-03.ino)
+* 실습08-04 : 삼색 LED로 다양한 색상 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-04.ino)
+* 실습08-05 : DC 모터의 속도 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-05.ino)
+* 실습08-06 : DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-06.ino)
+* 도전08 : 삼색 LED의 색상을 수동으로 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge08.ino)
 
 둘째 마당 - 활용편
 --------------
