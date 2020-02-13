@@ -40,11 +40,11 @@
 ***
 
 ### 9장 함수와 라이브러리
-* 실습 : 초음파센서로 거리 측정하기 -> [바로가기 링크](https://google.com)
-* 실습 : 물체와의 거리에 반응하는 LED 만들기 -> [바로가기 링크](https://google.com)
-* 실습 : 서보모터의 회전 각도 제어하기 -> [바로가기 링크](https://google.com)
-* 실습 : 서보모터와 PIR 센서로 자동문 만들기 -> [바로가기 링크](https://google.com)
-* 도전 : 4개의 핀을 가진 초음파센서 다루기 -> [바로가기 링크](https://google.com)
+* 실습09-01 : 초음파센서로 거리 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-01.ino)
+* 실습09-02 : 물체와의 거리에 반응하는 LED 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-02.ino)
+* 실습09-03 : 서보모터의 회전 각도 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-03.ino)
+* 실습09-04 : 서보모터와 PIR 센서로 자동문 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-04.ino)
+* 도전09 : 4개의 핀을 가진 초음파센서 다루기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge09.ino)
 ### 10장 액정 디스플레이
 * 실습 : LCD에 문자와 숫자 출력하기 -> [바로가기 링크](https://google.com)
 * 실습 : LCD에 온도 값 출력하기 -> [바로가기 링크](https://google.com)
@@ -72,3 +72,5 @@
 작성자 : 박필준(메이커멘토)
 
 작성일 : 2020-02-13
+
+수정일 : 2020-02-14
