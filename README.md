@@ -56,9 +56,9 @@
 * 실습11-03 : 7세그먼트 디코더 활용법 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-03.ino)
 * 도전11 : 가변저항으로 7세그먼트의 숫자 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge11.ino)
 ### 12장 적외선 센서와 리모컨
-* 실습 : 리모컨으로 LED 켜기 -> [바로가기 링크](https://google.com)
-* 실습 : 적외선 리모컨으로 무드등 제어하기 -> [바로가기 링크](https://google.com)
-* 도전 : 적외선 리모컨으로 LED의 밝기 제어하기 -> [바로가기 링크](https://google.com)
+* 실습12-01 : 리모컨으로 LED 켜기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example12-01.ino)
+* 실습12-02 : 적외선 리모컨으로 무드등 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example12-02.ino)
+* 도전12 : 적외선 리모컨으로 LED의 밝기 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge12.ino)
 ### 13장 모터 드라이버
 * 실습 : 모터 드라이버로 DC 모터의 방향 제어하기 -> [바로가기 링크](https://google.com)
 * 실습 : 무선 조종 2륜 자동차 만들기 -> [바로가기 링크](https://google.com)
