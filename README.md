@@ -51,10 +51,10 @@
 * 실습10-03 : LCD에 출력된 문자를 이동시키기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-03.ino)
 * 도전10 : LCD 창보다 긴 문자를 흘려 보내기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge10.ino)
 ### 11장 7세그먼트
-* 실습 : 7세그먼트로 숫자 출력하기 -> [바로가기 링크](https://google.com)
-* 실습 : 7세그먼트의 스케치 코드 개선하기 -> [바로가기 링크](https://google.com)
-* 실습 : 7세그먼트 디코더 활용법 -> [바로가기 링크](https://google.com)
-* 도전 : 가변저항으로 7세그먼트의 숫자 제어하기 -> [바로가기 링크](https://google.com)
+* 실습11-01 : 7세그먼트로 숫자 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-01.ino)
+* 실습11-02 : 7세그먼트의 스케치 코드 개선하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-02.ino)
+* 실습11-03 : 7세그먼트 디코더 활용법 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-03.ino)
+* 도전11 : 가변저항으로 7세그먼트의 숫자 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge11.ino)
 ### 12장 적외선 센서와 리모컨
 * 실습 : 리모컨으로 LED 켜기 -> [바로가기 링크](https://google.com)
 * 실습 : 적외선 리모컨으로 무드등 제어하기 -> [바로가기 링크](https://google.com)
