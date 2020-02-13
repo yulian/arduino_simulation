@@ -66,7 +66,7 @@
 ### 14장 피에조 스피커
 * 실습14-01 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-01.ino)
 * 실습 : 피에조 스피커로 전자키보드 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-02.ino)
-* 도전 : 피에조 스피커로 내가 좋아하는 곡 연주하기
+* 도전14 : 피에조 스피커로 내가 좋아하는 곡 연주하기
 ***
 
 작성자 : 박필준(메이커멘토)
