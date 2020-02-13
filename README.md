@@ -10,13 +10,13 @@
 ### 3장 서킷 시작하기
 ### 4장 전기 신호와 회로의 기본 이해하기
 ### 5장 디지털 출력 이해하기
-* 도전 : 두 개의 발광 다이오드를 교대로 깜빡이기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge05.ino)
+* 도전05 : 두 개의 발광 다이오드를 교대로 깜빡이기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge05.ino)
 ### 6장 디지털 입력 이해하기
-* 실습 : 푸시 버튼으로 발광 다이오드 켜고 끄기 -> [바로가기 링크](https://google.com)
-* 실습 : 내부 풀업 저항을 사용해서 LED 전원 스위치 만들기 -> [바로가기 링크](https://google.com)
-* 실습 : 슬라이드 스위치로 LED 제어하기 -> [바로가기 링크](https://google.com)
-* 실습 : PIR 센서로 현관등 만들기 -> [바로가기 링크](https://google.com)
-* 도전 : 푸시 버튼을 슬라이드 스위치처럼 사용하기 -> [바로가기 링크](https://google.com)
+* 실습06-01 : 푸시 버튼으로 발광 다이오드 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-01.ino)
+* 실습06-02 : 내부 풀업 저항을 사용해서 LED 전원 스위치 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-02.ino)
+* 실습06-03 : 슬라이드 스위치로 LED 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-03.ino)
+* 실습06-04 : PIR 센서로 현관등 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-04.ino)
+* 도전06 : 푸시 버튼을 슬라이드 스위치처럼 사용하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge06.ino)
 ### 7장 아날로그 입력 이해하기
 * 실습 : 가변저항 값 측정하기 -> [바로가기 링크](https://google.com)
 * 실습 : 가변저항으로 LED 켜고 끄기 -> [바로가기 링크](https://google.com)
