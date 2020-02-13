@@ -46,10 +46,10 @@
 * 실습09-04 : 서보모터와 PIR 센서로 자동문 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-04.ino)
 * 도전09 : 4개의 핀을 가진 초음파센서 다루기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge09.ino)
 ### 10장 액정 디스플레이
-* 실습 : LCD에 문자와 숫자 출력하기 -> [바로가기 링크](https://google.com)
-* 실습 : LCD에 온도 값 출력하기 -> [바로가기 링크](https://google.com)
-* 실습 : LCD에 출력된 문자를 이동시키기 -> [바로가기 링크](https://google.com)
-* 도전 : LCD 창보다 긴 문자를 흘려 보내기 -> [바로가기 링크](https://google.com)
+* 실습10-01 : LCD에 문자와 숫자 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-01.ino)
+* 실습10-02 : LCD에 온도 값 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-02.ino)
+* 실습10-03 : LCD에 출력된 문자를 이동시키기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-03.ino)
+* 도전10 : LCD 창보다 긴 문자를 흘려 보내기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge10.ino)
 ### 11장 7세그먼트
 * 실습 : 7세그먼트로 숫자 출력하기 -> [바로가기 링크](https://google.com)
 * 실습 : 7세그먼트의 스케치 코드 개선하기 -> [바로가기 링크](https://google.com)
