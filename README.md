@@ -60,9 +60,9 @@
 * 실습12-02 : 적외선 리모컨으로 무드등 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example12-02.ino)
 * 도전12 : 적외선 리모컨으로 LED의 밝기 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge12.ino)
 ### 13장 모터 드라이버
-* 실습 : 모터 드라이버로 DC 모터의 방향 제어하기 -> [바로가기 링크](https://google.com)
-* 실습 : 무선 조종 2륜 자동차 만들기 -> [바로가기 링크](https://google.com)
-* 도전 : 곡선을 그리며 회전하는 무선조종 자동차 만들기 -> [바로가기 링크](https://google.com)
+* 실습13-01 : 모터 드라이버로 DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example13-01.ino)
+* 실습13-02 : 무선 조종 2륜 자동차 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example13-01.ino)
+* 도전13 : 곡선을 그리며 회전하는 무선조종 자동차 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge13.ino)
 ### 14장 피에조 스피커
 * 실습 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://google.com)
 * 실습 : 피에조 스피커로 전자키보드 만들기 -> [바로가기 링크](https://google.com)
