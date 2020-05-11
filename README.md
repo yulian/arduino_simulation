@@ -53,7 +53,7 @@ Do it! 키트 없이 만드는 아두이노
 * 실습10-01 : LCD에 지정한 문자열 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-01.ino)
 * 실습10-02 : LCD에 온돗값 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-02.ino)
 * 실습10-03 : LCD에 출력된 문자에 이동 효과 주기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-03.ino)
-* 도전10 : LCD보다 킨 문자열을 출력해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge10.ino)
+* 도전10 : LCD보다 긴 문자열을 출력해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge10.ino)
 ### 11장 7세그먼트
 * 실습11-01 : 7세그먼트로 숫자 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-01.ino)
 * 실습11-02 : 7세그먼트의 스케치 코드 개선하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-02.ino)
