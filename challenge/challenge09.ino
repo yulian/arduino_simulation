@@ -11,7 +11,7 @@ void loop()
   digitalWrite(10, LOW);
   delayMicroseconds(2);
   digitalWrite(10, HIGH);
-  delayMicroseconds(5);
+  delayMicroseconds(10);
   digitalWrite(10, LOW);
   
   // 초음파 신호 수신
