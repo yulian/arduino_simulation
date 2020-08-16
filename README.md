@@ -65,7 +65,7 @@ Do it! 키트 없이 만드는 아두이노
 * 도전12 : 적외선 리모컨으로 LED의 밝기를 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge12.ino)
 ### 13장 모터 드라이버
 * 실습13-01 : 모터 드라이버로 DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example13-01.ino)
-* 실습13-02 : 이륜 자동차 엔진 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example13-01.ino)
+* 실습13-02 : 이륜 자동차 엔진 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/challenge13.ino)
 * 도전13 : 곡선을 그리는 무선 조종 자동차를 만들어 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge13.ino)
 ### 14장 피에조 스피커
 * 실습14-01 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-01.ino)
