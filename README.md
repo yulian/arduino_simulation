@@ -70,6 +70,6 @@ Do it! 키트 없이 만드는 아두이노
 ### 14장 피에조 스피커
 * 실습14-01 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-01.ino)
 * 실습14-02 : 푸시 버튼을 추가해 전자 키보드 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-02.ino)
-* 도전14 : 피에조 스피커로 좋아하는 곡을 연주해 봐요!
+* 도전14 : 피에조 스피커로 좋아하는 곡을 연주해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge14.ino)
 ***
 
