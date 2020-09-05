@@ -9,8 +9,8 @@ const int melody[] = {      // 음계 별 주파수를 저장한 변수 선언
   523,	// '도'의 주파수
 };
 
-const int PIEZO_PIN = 8;  	// 피에조 스피커에 연결된 디지털 핀 번호
-const int BASE = 400;		    // 기본음 길이
+const int PIEZO_PIN = 8;    // 피에조 스피커에 연결된 디지털 핀 번호
+const int BASE = 400;       // 기본음 길이
 
 void setup()
 {
